@@ -1,1 +1,1 @@
-# Zyra-website
+# Zyra-study-store
